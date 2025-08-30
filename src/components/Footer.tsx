@@ -11,7 +11,7 @@ export const Footer = () => {
               <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary-foreground to-success-light flex items-center justify-center">
                 <Shield className="w-6 h-6 text-primary" />
               </div>
-              <span className="text-xl font-bold text-primary-foreground">UPI Flow+</span>
+              <span className="text-xl font-bold text-primary-foreground">Gajwel UPI</span>
             </div>
             <p className="text-primary-foreground/80 leading-relaxed mb-6">
               The future of digital payments. Send money instantly, pay bills, and manage 
@@ -74,7 +74,7 @@ export const Footer = () => {
         <div className="border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-primary-foreground/60 text-sm">
-              © 2024 UPI Flow+. All rights reserved.
+              © 2024 Gajwel UPI. All rights reserved.
             </div>
             <div className="flex space-x-6">
               <a href="#" className="text-primary-foreground/60 hover:text-primary-foreground text-sm transition-colors">

@@ -13,7 +13,7 @@ export const Header = () => {
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-success flex items-center justify-center">
               <Shield className="w-6 h-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">UPI Flow+</span>
+            <span className="text-xl font-bold text-foreground">Gajwel UPI</span>
           </div>
 
           {/* Desktop Navigation */}

@@ -105,10 +105,10 @@ export const Support = () => {
 
               <div className="space-y-4">
                 <div className="flex items-center justify-between p-4 rounded-lg bg-gradient-to-r from-primary/5 to-success/5 border border-primary/10">
-                  <div>
-                    <h4 className="font-semibold text-foreground">User Guide</h4>
-                    <p className="text-muted-foreground text-sm">Complete guide to using UPI Flow+</p>
-                  </div>
+                <div>
+                  <h4 className="font-semibold text-foreground">User Guide</h4>
+                  <p className="text-muted-foreground text-sm">Complete guide to using Gajwel UPI</p>
+                </div>
                   <Button size="sm" variant="outline">View</Button>
                 </div>
 
@@ -139,7 +139,7 @@ export const Support = () => {
             <span className="text-lg font-semibold text-foreground">24/7 Support Available</span>
           </div>
           <p className="text-muted-foreground">
-            Toll-free: 1800-123-4567 | Email: support@upiflowplus.com
+            Toll-free: 1800-123-4567 | Email: support@gajwelupi.com
           </p>
         </div>
       </div>
