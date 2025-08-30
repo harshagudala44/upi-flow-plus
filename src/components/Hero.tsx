@@ -81,7 +81,7 @@ export const Hero = () => {
             <div className="relative z-10">
               <img 
                 src={heroPhone} 
-                alt="Gajwel UPI mobile app interface" 
+                alt="UPI Flow+ mobile app interface" 
                 className="w-full max-w-md mx-auto rounded-3xl shadow-2xl transform hover:scale-105 transition-transform duration-500"
               />
             </div>

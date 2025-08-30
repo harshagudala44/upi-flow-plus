@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Banknote, Menu } from "lucide-react";
+import { Shield, Menu } from "lucide-react";
 import { useState } from "react";
 
 export const Header = () => {
@@ -11,9 +11,9 @@ export const Header = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-success flex items-center justify-center">
-              <Banknote className="w-6 h-6 text-primary-foreground" />
+              <Shield className="w-6 h-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">Gajwel UPI</span>
+            <span className="text-xl font-bold text-foreground">UPI Flow+</span>
           </div>
 
           {/* Desktop Navigation */}

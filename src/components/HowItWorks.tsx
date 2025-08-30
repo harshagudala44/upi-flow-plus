@@ -100,7 +100,7 @@ export const HowItWorks = () => {
               Ready to Experience Fast & Secure Payments?
             </h3>
             <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-              Join millions of users who trust Gajwel UPI for their daily transactions. 
+              Join millions of users who trust UPI Flow+ for their daily transactions. 
               Download now and get ₹50 cashback on your first transaction.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
